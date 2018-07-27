@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Booklet-Notes</string>
+    <string name="login">Digite o login</string>
+    <string name="senha">Digite a senha</string>
+</resources>
